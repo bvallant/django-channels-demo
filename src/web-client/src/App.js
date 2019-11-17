@@ -53,6 +53,7 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header">
+        <img src="http://mirskytech.com/wp-content/uploads/2014/05/pony.png" />
         <h1>Django Channels Demo</h1>
         <button onClick={startJob}>Start Expensive Job!</button>
       </header>
