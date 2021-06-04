@@ -1,5 +1,5 @@
 channels==2.3.0
-Django==2.2.6
+Django==2.2.21
 channels-redis==2.4.0
 celery==4.3.0
 pyfiglet==0.8.post1
